@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my profile!
+
+- 📕 I'm currently a **fourth-year undergrad** studying Computer Science (minoring statistics) at Carleton University.
+- 💻 In the past, I was a software/developer engineer at Klipfolio, Hoppier, RBC, and Unity where I primarily worked in full-stack development, while also venturing into Data Analytics, DevOps, and Project Management.
+- 🛠 I'm currently a **Site Reliability Engineer** at RBC from Septepber to December 2021.
+- 🎓 Following that, I'll be **graduating** in **December 2021**.
+
+- 🌱 I'm currently learning about building **Real-time collaboration** apps through building a music collaboration site for my honours project supervised under Lou D. Nel
