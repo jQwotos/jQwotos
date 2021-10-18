@@ -20,6 +20,6 @@ Welcome to my profile!
 - 📕 I'm currently a **fourth-year undergrad** studying Computer Science (minoring statistics) at Carleton University.
 - 💻 In the past, I was a software/developer engineer at [Klipfolio](https://www.klipfolio.com/metrics/), [Hoppier](https://www.hoppier.com/), [RBC Amplify](https://jobs.rbc.com/ca/en/amplify), and [Unity](https://unity.com/products/game-growth-program) where I primarily worked in full-stack development, while also venturing into Data Analytics, DevOps, and Project Management.
 - 🛠 I'm currently a **Site Reliability Engineer Co-op** at [RBC Ventures](https://rbcventures.ca/en) from September to December 2021.
-- 🎓 Following that, I'll be **graduating** in **December 2021**.
+- 🎓 Following that, I'll be **graduating** in **December 2021** and starting as a Software Developer at Unity shortly after.
 
 - 🌱 I'm currently learning about building **Real-time collaboration** apps through building a music collaboration site for my honours project supervised under Lou D. Nel
