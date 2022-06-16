@@ -20,4 +20,4 @@ Welcome to my profile!
 - 📕 I just finished my Bachelors of Computer Science (minoring statistics) at Carleton University.
 - 💻 In the past, I was a software/developer engineer at [Klipfolio](https://www.klipfolio.com/metrics/), [Hoppier](https://www.hoppier.com/), [RBC Amplify](https://jobs.rbc.com/ca/en/amplify), [Unity](https://unity.com/products/game-growth-program), and [RBC Ventures](https://rbcventures.ca/) where I primarily worked in full-stack development, while also venturing into Data Analytics, SRE, and Project Management.
 - 🛠 I'm currently a **Software Developer** at [Unity](https://unity.com) within the Unity Dashboard team.
-- 🌱 I'm currently learning about building **Real-time collaboration** apps through building a music collaboration site for my honours project supervised under Lou D. Nel
+- 🌱 Previously, I was learning how to build **Real-time collaboration** apps through creating a music collaboration site for my honours project supervised under Lou D. Nel
